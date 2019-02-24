@@ -1,6 +1,6 @@
 {
-  "name": "default-light-syntax",
-  "description": "Default light syntax theme",
+  "name": "carrot-light-syntax",
+  "description": "Carrot light syntax theme: pop and cute.",
   "theme": "syntax",
   "styleSheets": ["default.less"]
 }
