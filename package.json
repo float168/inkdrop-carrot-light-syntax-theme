@@ -2,5 +2,5 @@
   "name": "carrot-light-syntax",
   "description": "Carrot light syntax theme: pop and cute.",
   "theme": "syntax",
-  "styleSheets": ["default.less"]
+  "styleSheets": ["carrot.less"]
 }
